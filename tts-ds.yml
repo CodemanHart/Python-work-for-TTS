@@ -1,0 +1,6 @@
+name: tts-ds
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11.0
+  - jupyterlab=3.5.0
